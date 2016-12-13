@@ -1,0 +1,16 @@
+{
+  "name": "bodewell-cli",
+  "version": "0.0.1",
+  "description": "Command-line interface for bodewell system monitor",
+  "bin": {
+    "bodewell": "./bodewell-cli.js"
+  },
+  "author": "Richard Remer (reanjr@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bodewell": "^3.0.0-alpha2",
+    "expand-hash": "^0.2.2",
+    "figger": "^3.0.3",
+    "npmls": "^3.0.0"
+  }
+}
