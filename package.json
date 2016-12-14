@@ -8,7 +8,7 @@
   "author": "Richard Remer (reanjr@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "bodewell": "^3.0.0-alpha2",
+    "bodewell": "^3.0.0-alpha3",
     "expand-hash": "^0.2.2",
     "figger": "^3.0.3",
     "npmls": "^3.0.0"
